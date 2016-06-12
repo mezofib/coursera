@@ -2,6 +2,7 @@ body {
   font-size: 16px;
   color: #fff;
   font-family: 'Oxygen', sans-serif;
+  padding-top: 150px;
 }
 
 /** HEADER **/
@@ -58,7 +59,6 @@ body {
   margin-right: 5px;  
 }
 #main_text {
-  min-height: 1000px;
   text-align: left;
 }
 
